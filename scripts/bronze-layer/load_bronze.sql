@@ -6,6 +6,7 @@
  
  ⚠ WARNING     : Ensure all files exist at specified locations. File paths must be accessible 
                  to SQL Server with proper read permissions.
+ Usage Example - EXEC bronze.load_bronze
  
  Author        : Priyanshu Chaudhary
  Date Created  : 4 July 2025
